@@ -108,7 +108,7 @@ function Footer() {
            >
         © 2023 Copyright:
         <a class="text-light" href=#
-           ><span style="color:#ED5910; font-weight:bold;">Jhumpus.com</span></a
+           >Jhumpus.com</a
           >
       </div>
       <!-- Copyright -->

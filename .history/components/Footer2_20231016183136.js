@@ -1,5 +1,5 @@
-function Footer() {
-    const Footer = document.getElementById("Footer");
+function Footer2() {
+    const Footer2 = document.getElementById("Footer");
     const Container = document.createElement("div");
     Container.classList.add("container");
     Container.innerHTML = `
@@ -87,7 +87,7 @@ function Footer() {
                   class="mb-4 mt-0 d-inline-block mx-auto"
                   style="width: 60px; background-color: #7c4dff; height: 2px"
                   />
-              <p><span style="color:#ED5910; font-weight:bold;">Jhumpus Co Ltd</span></p>
+              <p>Jhumpus Co Ltd</p>
             <p> 3rd Floor, BOB building,</p>
               <p><i class="fas fa-envelope mr-3"></i>Sir Williams Newton Road,</p>
               <p><i class="fas fa-phone mr-3"></i>Port Louis - 111 3-03</p>
@@ -108,7 +108,7 @@ function Footer() {
            >
         © 2023 Copyright:
         <a class="text-light" href=#
-           ><span style="color:#ED5910; font-weight:bold;">Jhumpus.com</span></a
+           >Jhumpus.com</a
           >
       </div>
       <!-- Copyright -->
@@ -116,6 +116,6 @@ function Footer() {
     </div>
     <!-- Footer -->
   `;
-  Footer.appendChild(Container);
+  Footer2.appendChild(Container);
 }
-Footer();
+Footer2();
