@@ -93,6 +93,7 @@ a:focus,
 a:visited {
   text-decoration: none;
   outline: none;
+  color: #ED5910;
 }
 
 
@@ -337,6 +338,10 @@ Navbar Section
 .navbar-light .navbar-nav .nav-link {
   color: var(--neutral-900);
 }
+
+.nav-link-active {
+  color: #ED5910;
+} 
 
 @media (min-width: 992px) {
 .navbar-expand-lg .navbar-nav .nav-link {

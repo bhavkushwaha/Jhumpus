@@ -338,6 +338,10 @@ Navbar Section
   color: var(--neutral-900);
 }
 
+.nav-link-active {
+  color: #ED5910;
+} 
+
 @media (min-width: 992px) {
 .navbar-expand-lg .navbar-nav .nav-link {
     padding-right: 1.5rem;
@@ -558,7 +562,7 @@ Hero Section
   width: 170px;
   width: 150px;
   display: block;
-  background: #ED5910;
+  background: #91c244;
   text-align: center;
   font-size: 16px;
   font-weight: 500;
