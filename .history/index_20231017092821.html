@@ -36,15 +36,27 @@
     />
     <!-- App CSS -->
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="NavStyles/style.css">
+    <link rel="stylesheet" href="NavStyles/responsive.css">
+    
     <title>Jhumpus Co Ltd</title>
   </head>
   <body>
     <div class="app">
+      // bg-transparent was removed from class of nav
       <nav
         id="Navbar"
-        class="navbar navbar-expand-lg navbar-light bg-transparent"
-      ></nav> 
-      <div id="contactHero" class="position-relative"></div>   
+        class="navbar navbar-expand-lg navbar-light"
+      ></nav>
+       
+      <div id="indexHero" class="position-relative" style=
+      "
+      padding-left: 0px;
+      padding-right: 0px;
+      "></div>
+      <div id="About" class="bg-neutral-50"></div>
+      <div id="Pricing" class="bg-special"></div>
+      <div id="Features" class="features-section"></div>
       <div id="Footer" class="text-white py-5"></div>
       <a
         href="#"
@@ -61,8 +73,11 @@
       crossorigin="anonymous"
     ></script>
     <!-- App Component's JS -->
-    <script src="./components/Navbar.js"></script>
-    <script src="./components/contactHero.js" style="padding-bottom: 20px;"></script>
+    <script src="./components/Navbar2.js"></script>
+    <script src="./components/indexHero.js"></script>
+    <script src="./components/indexAbout.js"></script>
+    <script src="./components/indexServices.js"></script>
+    <script src="./components/Features.js"></script>
     <script src="./components/Footer.js"></script>
     <script>
       const navbar = document.getElementById("Navbar");
@@ -84,9 +99,9 @@
           document.documentElement.scrollTop >= 10
         ) {
           navbar.classList.add("bg-white", "nav-scrolled");
-          navbar.classList.remove("bg-transparent");
+          // navbar.classList.remove("bg-transparent");
         } else {
-          navbar.classList.add("bg-transparent");
+          // navbar.classList.add("bg-transparent");
           navbar.classList.remove("bg-white", "nav-scrolled");
         }
       };
