@@ -23,7 +23,7 @@ function contactHero() {
                 <div class="col-lg-6">
                     <div class="contact-info-layer p-spacing-lg-right-50">
                         <h2>Get In Touch              </h2>
-                        <p>If you have any questions to support your business, please contact us directly effective search and believes business.</p>
+                        <p>If you have any questions to support your business, please contact us directly effective search and believes business..</p>
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="inner-contact-box">

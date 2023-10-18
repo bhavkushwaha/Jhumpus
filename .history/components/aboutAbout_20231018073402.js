@@ -30,7 +30,7 @@ function aboutAbout() {
      <h3>Safe, Reliable and Express <span>Logistics &amp; Trade Compliance</span> Solutions that saves your
        Cost &amp; Time!</h3>
      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim, donec pede justo.</p>
+     <p>Outsourcing to us will allow your company to focus on its core manufacturing business and higher-value projects. Because you are focused on ironing out weaknesses in the supply chain, we at 4PL  can help minimise costs by finding the best solutions for the lowest price.</p>
      
    </div>
   </div>
@@ -43,7 +43,7 @@ function aboutAbout() {
             <div class="col-md-7 col-sm-12">
               <div class="abtpg-prt2-lftbx clearfix">
                 <h5>Advantages of Choosing <span>Jhumpus</span></h5>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus donec quam felis, you will receive: </p>
+                <p>Many businesses consider getting a 3PL provider for their global logistics and supply chain management. However, they only cater to the logistical processes of a company. By choosing 4PL Consultancy, you will receive: </p>
                 <ul class="clearfix">
                   <li><i class="fa-solid fa-square-check" style="color: #f9611f;"></i>&nbsp Complete Transparency</li>
                   <li><i class="fa-solid fa-square-check" style="color: #f9611f;"></i>&nbsp Optimized Functioning</li>

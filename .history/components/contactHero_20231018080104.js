@@ -23,15 +23,19 @@ function contactHero() {
                 <div class="col-lg-6">
                     <div class="contact-info-layer p-spacing-lg-right-50">
                         <h2>Get In Touch              </h2>
-                        <p>If you have any questions to support your business, please contact us directly effective search and believes business.</p>
+                        <p>If you have any questions to support your business, please contact us directly effective search and believes business..</p>
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="inner-contact-box">
                                     <i class="fas fa-map-pin"></i>
                                     <h4>Address</h4>
-                                    <p>3rd Floor, BOB building,<br>
-                                    Sir Williams Newton Road,<br>                                 
-                                    Port Louis, Mauritius</p>
+                                    <p>3rd Floor, BOB building,</p>
+
+                                    <p>Sir Williams Newton Road,</p>
+                                    
+                                    <p>Port Louis - 111 3-03
+                                    
+                                    Mauritius</p>
                                 </div>
                             </div>
                             <div class="col-md-6">

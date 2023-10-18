@@ -10,11 +10,11 @@ function servicesFeatures() {
     <span style="color:#ED5910; font-weight:bold;">built around you.</span></h2>
     <br>
     <p class="align-center" style="max-width: 1000px;">
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-    Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
-    Donec quam felis, ultricies luk pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. 
-    Donec pede justo, fringilla vel, aliquet nec vulputate eget, arcu. In enim justo rhoncus ut imperdiet a, 
-    venenatis vitae, justo.</p>
+    The speed of business isn’t slowing down. 
+    There’s always more to do. New customers and markets to reach. 
+    Whether you have five shipments a year or 5000, a single supplier or a global supply chain, 
+    Livingston is here to help. You can trust our people, technology and services to simplify your 
+    customs and trade processes. And to free your time to focus on your core business.</p>
   </div>
   <div
     class="container-body row row-cols-1 row-cols-md-2 row-cols-lg-3 gy-4"
