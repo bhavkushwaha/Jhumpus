@@ -14,8 +14,7 @@ function Navbar() {
       />
     </a>
     </div>
-    <div>
-    <ul class="navbar-nav d-none d-lg-flex ms-5">
+    <ul class="navbar-nav d-none d-lg-flex">
       <li class="nav-item">
         <a class="nav-link" href="./">Home</a>
       </li>
@@ -29,7 +28,6 @@ function Navbar() {
         <a class="nav-link" href="contact.html">Contact Us</a>
       </li>
     </ul>
-    </div>
   </div>
   <div class="nav-right d-flex align-items-center">
     

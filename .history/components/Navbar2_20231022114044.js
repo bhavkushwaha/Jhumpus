@@ -1,10 +1,9 @@
-function Navbar() {
-    const navbar = document.getElementById("Navbar");
+function Navbar2() {
+    const navbar2 = document.getElementById("Navbar");
     const Container = document.createElement("div");
     Container.classList.add("container");
     Container.innerHTML = `
     <div class="nav-left d-flex" id="navbarNav">
-    <div>
     <a class="navbar-brand me-5" href="./">
       <img
         class="BrandLogo"
@@ -13,9 +12,7 @@ function Navbar() {
         srcset=""
       />
     </a>
-    </div>
-    <div>
-    <ul class="navbar-nav d-none d-lg-flex ms-5">
+    <ul class="navbar-nav d-none d-lg-flex">
       <li class="nav-item">
         <a class="nav-link" href="./">Home</a>
       </li>
@@ -29,7 +26,6 @@ function Navbar() {
         <a class="nav-link" href="contact.html">Contact Us</a>
       </li>
     </ul>
-    </div>
   </div>
   <div class="nav-right d-flex align-items-center">
     
@@ -77,7 +73,7 @@ function Navbar() {
     </div>
   </div>
       `;
-    navbar.appendChild(Container);
+    navbar2.appendChild(Container);
   }
-  Navbar();
+  Navbar2();
   

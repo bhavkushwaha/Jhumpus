@@ -3,7 +3,7 @@ function Navbar() {
     const Container = document.createElement("div");
     Container.classList.add("container");
     Container.innerHTML = `
-    <div class="nav-left d-flex" id="navbarNav">
+    <div class="nav-left d-flex margin" id="navbarNav">
     <div>
     <a class="navbar-brand me-5" href="./">
       <img
@@ -15,7 +15,7 @@ function Navbar() {
     </a>
     </div>
     <div>
-    <ul class="navbar-nav d-none d-lg-flex ms-5">
+    <ul class="navbar-nav d-none d-lg-flex">
       <li class="nav-item">
         <a class="nav-link" href="./">Home</a>
       </li>

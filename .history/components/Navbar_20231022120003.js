@@ -15,7 +15,7 @@ function Navbar() {
     </a>
     </div>
     <div>
-    <ul class="navbar-nav d-none d-lg-flex ms-5">
+    <ul class="navbar-nav d-none d-lg-flex">
       <li class="nav-item">
         <a class="nav-link" href="./">Home</a>
       </li>
