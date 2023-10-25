@@ -53,7 +53,7 @@ function Footer() {
             </div>
             <!-- Grid column -->
   
-            <!-- Services Removed -->
+            // Services Removed
   
             <!-- Grid column -->
             <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">

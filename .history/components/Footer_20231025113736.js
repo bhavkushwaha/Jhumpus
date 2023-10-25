@@ -53,7 +53,31 @@ function Footer() {
             </div>
             <!-- Grid column -->
   
-            <!-- Services Removed -->
+            <!-- Grid column -->
+            <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+              <!-- Links -->
+              <h6 class="text-uppercase fw-bold">Our Services</h6>
+              <hr
+                  class="mb-4 mt-0 d-inline-block mx-auto"
+                  style="width: 60px; background-color: #7c4dff; height: 2px"
+                  />
+              <p>
+                <a href="gpdm.html" class="text-light">Global Product Data Management</a>
+              </p>
+              <p>
+                <a href="gtc.html" class="text-light">Global Trade Compliance</a>
+              </p>
+              <p>
+                <a href="lm.html" class="text-light">Logistic Management</a>
+              </p>
+              <p>
+                <a href="io.html" class="text-light">Import Operations</a>
+              </p>
+              <p>
+                <a href="eo.html" class="text-light">Export Operations</a>
+              </p>
+            </div>
+            <!-- Grid column -->
   
             <!-- Grid column -->
             <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
@@ -63,7 +87,7 @@ function Footer() {
                   class="mb-4 mt-0 d-inline-block mx-auto"
                   style="width: 60px; background-color: #7c4dff; height: 2px"
                   />
-              <p><a href="index.html"><span style="color:#ED5910; font-weight:bold;">Jhumpus Co Ltd</span></a></p>
+              <p><span style="color:#ED5910; font-weight:bold;">Jhumpus Co Ltd</span></p>
             <p> 3rd Floor, BOB building,</p>
               <p>Sir Williams Newton Road,</p>
               <p>Port Louis - 111 3-03</p>
@@ -95,30 +119,3 @@ function Footer() {
   Footer.appendChild(Container);
 }
 Footer();
-
-            // All the Services
-            // <!-- Grid column -->
-            // <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
-            //   <!-- Links -->
-            //   <h6 class="text-uppercase fw-bold">Our Services</h6>
-            //   <hr
-            //       class="mb-4 mt-0 d-inline-block mx-auto"
-            //       style="width: 60px; background-color: #7c4dff; height: 2px"
-            //       />
-            //   <p>
-            //     <a href="gpdm.html" class="text-light">Global Product Data Management</a>
-            //   </p>
-            //   <p>
-            //     <a href="gtc.html" class="text-light">Global Trade Compliance</a>
-            //   </p>
-            //   <p>
-            //     <a href="lm.html" class="text-light">Logistic Management</a>
-            //   </p>
-            //   <p>
-            //     <a href="io.html" class="text-light">Import Operations</a>
-            //   </p>
-            //   <p>
-            //     <a href="eo.html" class="text-light">Export Operations</a>
-            //   </p>
-            // </div>
-            // <!-- Grid column -->
