@@ -1657,12 +1657,12 @@ indexHero2 Section
   position: absolute;
   left: 0px;
   right: 0px;
-  z-index: 1; /* Modified so that NavBar doesn't hide behind it*/
+  z-index: 100;
   bottom: 0px;
 }
 
 .slider-btm-swirl img {
-  /* width: 100%;  to change the design pattern */
+  /* width: 100%; */
   height: auto;
   display: block;
   user-select: none;

@@ -12,14 +12,10 @@ function indexHero() {
   ">
 <div class="pages-hero-index">
           <div class="container">
-              <div class="pages-title-index">
- 
-              <h1>Contact Us</h1>
-              <div class="page-nav">
-                  <p>Home</p>
-              </div> 
-
-              </div>
+          <div class="slider-btm-swirl clearfix">
+      <img src="Images/slider-bottom6.png">
+    </div>
+              
           </div>
       </div>
 </div>
@@ -57,5 +53,12 @@ indexHero();
           </div>
         </div> */}
 
+{/* <div class="pages-title">
+ 
+ <h1>Home Page</h1>
+ <div class="page-nav">
+     <p>Home</p>
+ </div> 
 
+ </div> */}
  

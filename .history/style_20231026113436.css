@@ -1639,32 +1639,3 @@ indexHero2 Section
     letter-spacing: 0.7px;
 }
 
-.text-box p{
-  margin: 0px;
-  text-align: left;
-  color: #fff;
-  line-height: 28px;
-  font-weight: 400;
-  letter-spacing: 0.7px;
-}
-
-.carousel {
-  position: relative;
-}
-
-.slider-btm-swirl {
-  width: 100%;
-  position: absolute;
-  left: 0px;
-  right: 0px;
-  z-index: 1; /* Modified so that NavBar doesn't hide behind it*/
-  bottom: 0px;
-}
-
-.slider-btm-swirl img {
-  /* width: 100%;  to change the design pattern */
-  height: auto;
-  display: block;
-  user-select: none;
-  float: left;
-}
