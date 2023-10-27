@@ -51,7 +51,7 @@ function aboutAbout() {
                   <li><i class="fa-solid fa-square-check" style="color: #f9611f;"></i>&nbsp Software for Logistics</li>
                   <li><i class="fa-solid fa-square-check" style="color: #f9611f;"></i>&nbsp Comprehensive Resolution</li>
                   <li><i class="fa-solid fa-square-check" style="color: #f9611f;"></i>&nbsp Improved Supply Chain</li>
-                  <li><i class="fa-solid fa-square-check" style="color: #f9611f;"></i>&nbsp Freight Savings</li>
+                  <li><i class="fa-solid fa-square-check" style="color: #f9611f;"></i>&nbsp Freight Cost Savings</li>
                   <li><i class="fa-solid fa-square-check" style="color: #f9611f;"></i>&nbsp Import Duty savings</li>
                   
                 </ul>

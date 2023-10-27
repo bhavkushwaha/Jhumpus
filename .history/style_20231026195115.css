@@ -1406,48 +1406,6 @@ aboutAbout Section
   align-items: baseline;
 }
 
-@media screen and (max-width: 359.98px)
-{
-  .abtpg-prt2-lftbx ul li {
-    list-style-type: none;
-    width: 50%;
-    /* float: left; */
-    margin-top: 20px;
-    font-weight: 600;
-    /* font-size: 15px; */
-    display: flex;
-    align-items: baseline;
-  }
-}
-
-@media screen and (max-width: 550px)
-{
-  .abtpg-prt2-lftbx ul li {
-    list-style-type: none;
-    width: 75%;
-    /* float: left; */
-    margin-top: 20px;
-    font-weight: 600;
-    /* font-size: 15px; */
-    display: flex;
-    align-items: baseline;
-  }
-}
-
-@media screen and (max-width: 425px)
-{
-  .abtpg-prt2-lftbx ul li {
-    list-style-type: none;
-    width: 100%;
-    /* float: left; */
-    margin-top: 20px;
-    font-weight: 600;
-    /* font-size: 15px; */
-    display: flex;
-    align-items: baseline;
-  }
-}
-
 .fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
@@ -1831,19 +1789,35 @@ contactHero2 Section
 }
 
 @media screen and (max-width: 359.98px) {
-.inner-page-hd-bnnrs img {
-    width: 100%;
-    min-height: 100px;
-}
-.innrpg-tophead-bnnr::before {
-  
-  display: none;
+.inner-pghead h2 {
+    font-size: 14px;
+    font-weight: 600;
+    padding-bottom: 4px;
 }
 }
 
 @media only screen and (max-width: 991.98px) {
-.inner-page-hd-bnnrs img {
-    width: 100%;
-    min-height: 180px;
+.inner-pghead h2 {
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 5px;
 }
+}
+
+@media only screen and (max-width: 1199.98px) {
+.inner-pghead h2 {
+    font-size: 26px;
+    font-weight: 700;
+    padding-bottom: 7px;
+}
+}
+
+.inner-pghead h2 {
+    margin: 0px;
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+    position: relative;
 }

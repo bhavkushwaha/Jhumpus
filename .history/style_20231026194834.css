@@ -1406,48 +1406,6 @@ aboutAbout Section
   align-items: baseline;
 }
 
-@media screen and (max-width: 359.98px)
-{
-  .abtpg-prt2-lftbx ul li {
-    list-style-type: none;
-    width: 50%;
-    /* float: left; */
-    margin-top: 20px;
-    font-weight: 600;
-    /* font-size: 15px; */
-    display: flex;
-    align-items: baseline;
-  }
-}
-
-@media screen and (max-width: 550px)
-{
-  .abtpg-prt2-lftbx ul li {
-    list-style-type: none;
-    width: 75%;
-    /* float: left; */
-    margin-top: 20px;
-    font-weight: 600;
-    /* font-size: 15px; */
-    display: flex;
-    align-items: baseline;
-  }
-}
-
-@media screen and (max-width: 425px)
-{
-  .abtpg-prt2-lftbx ul li {
-    list-style-type: none;
-    width: 100%;
-    /* float: left; */
-    margin-top: 20px;
-    font-weight: 600;
-    /* font-size: 15px; */
-    display: flex;
-    align-items: baseline;
-  }
-}
-
 .fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
@@ -1830,20 +1788,3 @@ contactHero2 Section
   background: rgba(0, 0, 0, 0.7);
 }
 
-@media screen and (max-width: 359.98px) {
-.inner-page-hd-bnnrs img {
-    width: 100%;
-    min-height: 100px;
-}
-.innrpg-tophead-bnnr::before {
-  
-  display: none;
-}
-}
-
-@media only screen and (max-width: 991.98px) {
-.inner-page-hd-bnnrs img {
-    width: 100%;
-    min-height: 180px;
-}
-}

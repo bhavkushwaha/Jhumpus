@@ -1,21 +1,9 @@
-function contactHero() {
-    const contactHero = document.getElementById("contactHero");
+function contactForm() {
+    const contactForm = document.getElementById("contactHero");
     const Container = document.createElement("div");
     const BG = document.createElement("div");
     BG.classList.add("hero-bg-c");
     Container.innerHTML = `
-    <div class="container-fluid" style=
-    "
-    padding-left: 0px;
-    padding-right: 0px;
-    ">
-<div class="pages-hero-contact">
-            <div class="container">
-                
-            </div>
-        </div>
-</div>
-
 
         <section>
         <div class="container mt-5 mb-5">
@@ -129,9 +117,9 @@ function contactHero() {
         <!-- MAP END -->
     </section>        
         `;
-        contactHero.appendChild(Container);
+        contactForm.appendChild(Container);
       }
-      contactHero();
+      contactForm();
       
     //   <div class="pages-title">
     //                 <h1>Contact Us</h1>
