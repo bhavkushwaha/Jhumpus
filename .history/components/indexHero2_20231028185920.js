@@ -18,8 +18,8 @@ function indexHero2() {
            <img src="Images/slider-1.jpg" alt="Logistics and Supply Chain Management" title="Logistics and Supply Chain Management">
              <div class="text-box">
                  <h2 class="wow zoomInRight animated" data-wow-duration="2s" style="visibility: visible;-webkit-animation-duration: 2s; -moz-animation-duration: 2s; animation-duration: 2s;">
-                 
-                 <span>Jhumpus Consultancy</span> 
+                  
+                 <span>Jhumpus</span> 
                  Firm</h2>
                  <p class="wow fadeInLeft animated" data-wow-duration="2s" style="visibility: visible;-webkit-animation-duration: 2s; -moz-animation-duration: 2s; animation-duration: 2s;">We are a leading 4PL provider specializing in helping companies penetrate emerging markets worldwide, optimize their supply chain delivery models, and find gaps &amp; efficiencies in supply chain costs.</p>
              </div>

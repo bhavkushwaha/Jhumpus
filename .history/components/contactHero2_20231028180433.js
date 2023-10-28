@@ -13,6 +13,10 @@ function contactHero() {
            <div class="col-md-12 col-sm-12">
              <div class="inner-pghead clearfix">
              <h2>Contact Us</h2>
+              <ul>
+               <li><a href="index.php">Home</a></li>
+               <li class="active">Contact Us</li>
+              </ul>
              </div>
            </div>
           </div>
