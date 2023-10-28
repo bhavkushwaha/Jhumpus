@@ -1,5 +1,5 @@
-function indexHero2() {
-    const indexHero2 = document.getElementById("indexHero");
+function indexHero() {
+    const indexHero = document.getElementById("indexHero");
     const Container = document.createElement("div");
     const BG = document.createElement("div");
     // Container.classList.add("container-fluid");
@@ -34,9 +34,9 @@ function indexHero2() {
  </div>
     `;
 
-    indexHero2.appendChild(Container);
+    indexHero.appendChild(Container);
     // Herosection.appendChild(BG);
   }
-  indexHero2();
+  indexHero();
   
  

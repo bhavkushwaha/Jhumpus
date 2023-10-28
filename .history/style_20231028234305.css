@@ -1887,7 +1887,6 @@ inner-pghead h2 {
   font-size: 14px;
   font-weight: 600;
   padding-bottom: 4px;
-  top: 50px
 }
 .inner-pghead h2::before {
   width: 70px;
@@ -1916,7 +1915,6 @@ inner-pghead h2 {
     font-size: 26px;
     font-weight: 700;
     padding-bottom: 7px;
-    top: 50px
 }
 .inner-pghead h2::before {
   width: 100px;

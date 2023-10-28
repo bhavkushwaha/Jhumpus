@@ -1,61 +1,42 @@
 function indexHero() {
-  const indexHero = document.getElementById("indexHero");
-  const Container = document.createElement("div");
-  const BG = document.createElement("div");
-  // Container.classList.add("container-fluid");
-  // BG.classList.add("hero-bg");
-  Container.innerHTML = `
-  <div class="container-fluid" style=
-  "
-  padding-left: 0px;
-  padding-right: 0px;
-  ">
-<div class="pages-hero-index">
-          <div class="container">
+    const indexHero = document.getElementById("indexHero");
+    const Container = document.createElement("div");
+    const BG = document.createElement("div");
+    // Container.classList.add("container-fluid");
+    // BG.classList.add("hero-bg");
+    Container.innerHTML = `
+    <div class="slider-mndiv clearfix">
+    <div id="slider-animation" class="carousel slide carousel-fade" data-ride="carousel" data-pause="hover" data-interval="5000">
+       <!-- Indicators -->
+       <!-- <ul class="carousel-indicators">
+         <li data-target="#slider-animation" data-slide-to="0" class="active"></li>
+       </ul> -->
+
+       <!-- The slideshow -->
+       <div class="carousel-inner">
+         <div class="carousel-item active">
+           <img src="Images/slider-1.jpg" alt="Logistics and Supply Chain Management" title="Logistics and Supply Chain Management">
+             <div class="text-box">
+                 <h2 class="wow zoomInRight animated" data-wow-duration="2s" style="visibility: visible;-webkit-animation-duration: 2s; -moz-animation-duration: 2s; animation-duration: 2s;">
+                 
+                 <span>Jhumpus Consultancy</span> 
+                 Firm</h2>
+                 <p class="wow fadeInLeft animated" data-wow-duration="2s" style="visibility: visible;-webkit-animation-duration: 2s; -moz-animation-duration: 2s; animation-duration: 2s;">We are a leading 4PL provider specializing in helping companies penetrate emerging markets worldwide, optimize their supply chain delivery models, and find gaps &amp; efficiencies in supply chain costs.</p>
+             </div>
+         </div>
               
-          </div>
-      </div>
-</div>
-
-
-        
-  `;
-  // BG.innerHTML = `
-  //      <div class="bg"></div>
-  //       <img class="purple-circle" src="./Images/imgbg.jpg"></img>
-  // `;
-  indexHero.appendChild(Container);
-  // Herosection.appendChild(BG);
-}
-indexHero();
-
-{/* <div class="row row-cols-2 gx-5 gy-5">
-          <div class="text-wrapper col-12 col-lg-6">
-            <div class="text-body">
-              <h1 class=" fw-bold">
-              Global Trade Management
-              </h1>
-              <h1 class=" fw-bold">
-              End-to-end expertise.
-              </h1>
-              <p class="mt-3">
-              Every part of global trade can be done more efficiently. We scale best-in-class talent, processes, and tech to help your team optimize cost and speed.
-              </p>
-            </div>
-          </div>
-          <div
-            class="mockup-img col-12 col-lg-5 d-flex overflow-hidden justify-content-center"
-          >
-            <img class="" src="./Images/imgbg.jpg" alt="" id="" />
-          </div>
-        </div> */}
-
-{/* <div class="pages-title">
+       </div>
  
- <h1>Home Page</h1>
- <div class="page-nav">
-     <p>Home</p>
- </div> 
+    </div>
+    <div class="slider-btm-swirl clearfix">
+      <img src="Images/slider-bottom6.png">
+    </div>
+ </div>
+    `;
 
- </div> */}
+    indexHero.appendChild(Container);
+    // Herosection.appendChild(BG);
+  }
+  indexHero();
+  
  

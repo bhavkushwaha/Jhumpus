@@ -1,5 +1,5 @@
 function aboutHero() {
-    const aboutHero = document.getElementById("aboutHero");
+    const aboutHero3 = document.getElementById("aboutHero");
     const Container = document.createElement("div");
     const BG = document.createElement("div");
     BG.classList.add("hero-bg-c");
