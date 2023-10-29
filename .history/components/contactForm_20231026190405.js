@@ -84,11 +84,11 @@ function contactForm() {
                                 </div>
                                 <br>
                                 <div class="row">
-                                    <div class="col-md-12 btn-send" style="text-align: center;">
+                                    <div class="col-md-12 btn-send">
                                         <p><input type="submit" class="btn btn-default disabled" value="Send message"></p>
                                     </div>
                                     <div class="col-sm-12">
-                                        <p class="required" style="text-align: center;">
+                                        <p class="required">
                                             * These fields are required.
                                         </p>
                                     </div>

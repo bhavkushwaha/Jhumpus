@@ -338,7 +338,7 @@ Navbar Section
 }
 
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
-  color: #ED5910;
+  color: orange;
 }
 
 @media (min-width: 992px) {
@@ -541,7 +541,7 @@ Navbar Section
 textarea.form-control {
   height: auto;
 }
-/* .message-form {
+.message-form {
   border-radius: 10px !important;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   border: none;
@@ -551,7 +551,7 @@ textarea.form-control {
 }
 .message-form {
   background-color: #C6C6C6 !important;
-} */
+}
 
 .hero-bg {
   --band-right-offset: 0px;
@@ -730,8 +730,8 @@ textarea.form-control {
   /* background-color: #FF6813; */
   margin-left: auto;
   margin-right: auto;
-  /* padding-top: 7.5rem;
-  padding-bottom: 7.5rem; */
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
   width: 85%;
   max-width: 62.5rem;
   min-width: 50rem;
@@ -769,6 +769,148 @@ textarea.form-control {
   padding-bottom: 0.9375rem;
 }
 
+/*** 
+
+====================================================================
+Pricing Table Section
+====================================================================
+
+***/
+.pricing-table {
+  margin-bottom: 30px;
+}
+
+.pricing-table .inner-box {
+  border: 1px solid var(--neutral-300);
+  border-radius: 8px;
+  transition: all 300ms ease;
+  -webkit-transition: all 300ms ease;
+  -moz-transition: all 300ms ease;
+  -ms-transition: all 300ms ease;
+  -o-transition: all 300ms ease;
+}
+.pricing-table .inner-box {
+  padding: 40px 40px;
+}
+.pricing-table .inner-box:hover,
+.pricing-table.tagged .inner-box {
+  border: 1px solid var(--primary-600);
+  box-shadow: 0px 6px 15px rgba(64, 79, 104, 0.05);
+}
+.pricing-table .tag {
+  position: absolute;
+  right: 30px;
+  top: 30px;
+  overflow: hidden;
+  border-radius: 30px;
+  padding: 5px 25px;
+}
+.pricing-table .tag:before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0.15;
+  content: "";
+  border-radius: 30px;
+}
+.pricing-table .title {
+  display: block;
+  margin-bottom: 10px;
+}
+.pricing-table .price {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 50px;
+  transition: all 300ms ease;
+}
+.pricing-table .duration {
+  position: relative;
+  font-size: 18px;
+  line-height: 1em;
+  bottom: 7px;
+  margin-left: 7px;
+}
+.pricing-table .table-content {
+  position: relative;
+  margin-bottom: 60px;
+}
+.pricing-table .table-content ul {
+  position: relative;
+}
+.pricing-table .table-content ul li {
+  position: relative;
+  margin-bottom: 20px;
+  padding-left: 30px;
+  list-style: none;
+}
+.pricing-table .table-content ul li i {
+  font-size: 1.3rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.pricing-table .table-footer {
+  position: relative;
+}
+.pricing-table .table-footer a {
+  position: relative;
+  display: block;
+  width: 100%;
+}
+.pricing-table .table-footer a {
+  position: relative;
+  display: block;
+  width: 100%;
+}
+/*** 
+
+====================================================================
+Testimonial Section
+====================================================================
+
+***/
+#Testimonial .testimonial-item {
+  height: fit-content;
+  padding: 32px 24px;
+  box-shadow: 0px 4px 8px -2px rgba(17, 24, 39, 0.1),
+    0px 2px 4px -2px rgba(17, 24, 39, 0.06);
+}
+#Testimonial h1,
+#Testimonial p {
+  max-width: 488px;
+}
+#Testimonial .testimonial-items,
+#Testimonial .testimonial-items .item-1 {
+  margin-top: 120px;
+}
+#Testimonial .text-body {
+  top: -80px;
+  left: 0;
+  z-index: 4;
+}
+#Testimonial .text-body .quote-mark {
+  z-index: -1;
+  top: -60px;
+  left: -48px;
+}
+/*** 
+
+====================================================================
+FAQ Section
+====================================================================
+
+***/
+/* .accordion-button:not(.collapsed) {
+  color: var(--primary-600);
+  background-color: var(--primary-100);
+}
+.accordion-button:focus {
+  border-color: var(--primary-600);
+  box-shadow: 0 0 0 0.25rem var(--primary-300);
+} */
 /*** 
 
 ====================================================================
@@ -1288,8 +1430,8 @@ servicesCTA Section
   /* background-color: #FF6813; */
   margin-left: auto;
   margin-right: auto;
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
   width: 85%;
   max-width: 62.5rem;
   min-width: 50rem;
@@ -1470,7 +1612,7 @@ indexHero2 Section
 }
 
 .text-box h2 span {
-  color: #ED5910;
+  color: orange;
 }
 
 @media screen and (max-width: 575.98px) {
@@ -1601,7 +1743,7 @@ contactHero Section
   left: 0px;
   right: 0px;
   margin: auto;
-  background: #ED5910;
+  background: orange;
 }
 
 @media screen and (max-width: 359.98px) {
@@ -1623,6 +1765,11 @@ inner-pghead h2 {
   width: 70px;
   top: 27px;
 }
+
+.service1{
+  padding-top: 0rem !important;
+}
+
 }
 
 @media only screen and (max-width: 991.98px) {
@@ -1659,5 +1806,3 @@ inner-pghead h2 {
 .whiteSpace{
   padding-top: 50px;
 }
-
-/* About Section Responsiveness */

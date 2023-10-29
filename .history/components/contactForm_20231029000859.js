@@ -60,7 +60,7 @@ function contactForm() {
                                             <input id="form_name" type="text" name="name" class="form-control custom-form" placeholder="*Name" required="required" data-error="Firstname is required.">
                                             <div class="help-block with-errors"></div>
                                         </div>
-                                    </div>
+                                    </div><br>
                                     <div class="col-sm-6">
                                         <div class="form-group">
                                             <input id="form_email" type="email" name="email" class="form-control custom-form" placeholder="*Email address" required="required" data-error="Valid email is required.">
@@ -84,11 +84,11 @@ function contactForm() {
                                 </div>
                                 <br>
                                 <div class="row">
-                                    <div class="col-md-12 btn-send" style="text-align: center;">
+                                    <div class="col-md-12 btn-send">
                                         <p><input type="submit" class="btn btn-default disabled" value="Send message"></p>
                                     </div>
                                     <div class="col-sm-12">
-                                        <p class="required" style="text-align: center;">
+                                        <p class="required">
                                             * These fields are required.
                                         </p>
                                     </div>

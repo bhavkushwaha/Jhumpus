@@ -8,8 +8,8 @@ function aboutAbout() {
   <div class="row">
   <div class="col-md-12 col-sm-12">
   <div class="abtpg-top-hd clearfix">
-          <h2 style="text-align: center;"><strong>Jhumpus : </strong> Giving customers a unique experience of partnership.</h2>
-          <h3 style="text-align: center;">We are a young and creative company and we offer you fresh Logistics &amp; Trade Compliance ideas.</h3>
+          <h2><strong>Jhumpus : </strong> Giving customers a unique experience of partnership.</h2>
+          <h3>We are a young and creative company and we offer you fresh Logistics &amp; Trade Compliance ideas.</h3>
           <p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet.</p>
         </div>
   <div class="abt-hm-mndiv clearfix">
@@ -42,7 +42,7 @@ function aboutAbout() {
           <div class="row">
             <div class="col-md-7 col-sm-12">
               <div class="abtpg-prt2-lftbx clearfix">
-                <h5 style="text-align: center;">Advantages of Choosing <span>Jhumpus</span></h5>
+                <h5>Advantages of Choosing <span>Jhumpus</span></h5>
                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus donec quam felis, you will receive: </p>
                 <ul class="clearfix">
                   <li><i class="fa-solid fa-square-check" style="color: #f9611f;"></i>&nbsp Complete Transparency</li>

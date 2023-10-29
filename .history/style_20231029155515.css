@@ -338,7 +338,7 @@ Navbar Section
 }
 
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
-  color: #ED5910;
+  color: orange;
 }
 
 @media (min-width: 992px) {
@@ -541,7 +541,7 @@ Navbar Section
 textarea.form-control {
   height: auto;
 }
-/* .message-form {
+.message-form {
   border-radius: 10px !important;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   border: none;
@@ -551,7 +551,7 @@ textarea.form-control {
 }
 .message-form {
   background-color: #C6C6C6 !important;
-} */
+}
 
 .hero-bg {
   --band-right-offset: 0px;
@@ -730,8 +730,8 @@ textarea.form-control {
   /* background-color: #FF6813; */
   margin-left: auto;
   margin-right: auto;
-  /* padding-top: 7.5rem;
-  padding-bottom: 7.5rem; */
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
   width: 85%;
   max-width: 62.5rem;
   min-width: 50rem;
@@ -1288,8 +1288,8 @@ servicesCTA Section
   /* background-color: #FF6813; */
   margin-left: auto;
   margin-right: auto;
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
   width: 85%;
   max-width: 62.5rem;
   min-width: 50rem;
@@ -1470,7 +1470,7 @@ indexHero2 Section
 }
 
 .text-box h2 span {
-  color: #ED5910;
+  color: orange;
 }
 
 @media screen and (max-width: 575.98px) {
@@ -1601,7 +1601,7 @@ contactHero Section
   left: 0px;
   right: 0px;
   margin: auto;
-  background: #ED5910;
+  background: orange;
 }
 
 @media screen and (max-width: 359.98px) {

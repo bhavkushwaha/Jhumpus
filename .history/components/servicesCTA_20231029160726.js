@@ -27,9 +27,7 @@ function servicesCTA() {
 	<div class="lead-gen-module-container lead-gen-mobile">
 		<div class="lead-gen-module">
 			<h2 style="text-align: center;">How can we <span>help you?</span></h2>
-			<p style="text-align: center;">Getting a quote is easy. Simply tell us what you want, and a Jhumpus representative will be in contact to advise you on the most efficient way to accomplish your requirements.
-			<br><br>
-			<b>We are available 24 hours, <br>7 days a week.</b></p>
+			<p>Getting a quote is easy. Simply tell us what you want, and a Jhumpus representative will be in contact to advise you on the most efficient way to accomplish your requirements.<br><b>We are available 24 hours, <br>7 days a week.</b></p>
 			<p class="lead-gen-ctaPhone">
 				<b>CALL <a href="tel:1-800-837-1063"><span>1-800-837-1063</span></a></b>
 			</p>

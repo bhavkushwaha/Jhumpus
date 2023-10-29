@@ -30,10 +30,8 @@ function indexServices() {
       <div class="srvbx1-rgt order-2">
        <h2 style="text-align: center;">Global Trade Compliance</h2>
        <p style="text-align: justify;">Our team of Global Trade compliance professionals will analyse the complete process by which goods enter/import into a country in conformance with all import laws and regulations of emerging markets and countries worldwide.</p>
-       <div style="text-align: center;">
        <div class="srv-a">
        <a href="about.html" style="text-decorations:none; color:inherit;">Read More</a>
-       </div>
        </div>
       </div>
       <div class="srvbx1-lft order-0">
@@ -46,10 +44,8 @@ function indexServices() {
       <div class="srvbx1-rgt">
        <h2 style="text-align: center;">Customs Declaration</h2>
        <p style="text-align: justify;">Customs declarations are a vital component to have Trade across international borders. This is a time-critical process in the supply chain, also complicated, ever evolving and not so easy protocols, hence requires time and expertise.</p>
-       <div style="text-align: center;">
        <div class="srv-a">
        <a href="about.html" style="text-decorations:none; color:inherit;">Read More</a>
-       </div>
        </div>
       </div>
      </div>

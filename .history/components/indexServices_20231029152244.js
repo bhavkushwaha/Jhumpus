@@ -46,10 +46,8 @@ function indexServices() {
       <div class="srvbx1-rgt">
        <h2 style="text-align: center;">Customs Declaration</h2>
        <p style="text-align: justify;">Customs declarations are a vital component to have Trade across international borders. This is a time-critical process in the supply chain, also complicated, ever evolving and not so easy protocols, hence requires time and expertise.</p>
-       <div style="text-align: center;">
        <div class="srv-a">
        <a href="about.html" style="text-decorations:none; color:inherit;">Read More</a>
-       </div>
        </div>
       </div>
      </div>

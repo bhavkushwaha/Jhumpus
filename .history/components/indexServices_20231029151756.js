@@ -29,11 +29,9 @@ function indexServices() {
      <div class="srv-mnbx-1 dflx wow fadeInRight clearfix animated" data-wow-duration="1000ms" data-wow-delay="100ms" style="visibility: visible;-webkit-animation-duration: 1000ms; -moz-animation-duration: 1000ms; animation-duration: 1000ms;-webkit-animation-delay: 100ms; -moz-animation-delay: 100ms; animation-delay: 100ms;">
       <div class="srvbx1-rgt order-2">
        <h2 style="text-align: center;">Global Trade Compliance</h2>
-       <p style="text-align: justify;">Our team of Global Trade compliance professionals will analyse the complete process by which goods enter/import into a country in conformance with all import laws and regulations of emerging markets and countries worldwide.</p>
-       <div style="text-align: center;">
+       <p>Our team of Global Trade compliance professionals will analyse the complete process by which goods enter/import into a country in conformance with all import laws and regulations of emerging markets and countries worldwide.</p>
        <div class="srv-a">
        <a href="about.html" style="text-decorations:none; color:inherit;">Read More</a>
-       </div>
        </div>
       </div>
       <div class="srvbx1-lft order-0">
@@ -45,11 +43,9 @@ function indexServices() {
       <div class="srvbx1-lft"><img src="Images/services3.jpg" alt="Customs Declaration" title="Customs Declaration"></div>
       <div class="srvbx1-rgt">
        <h2 style="text-align: center;">Customs Declaration</h2>
-       <p style="text-align: justify;">Customs declarations are a vital component to have Trade across international borders. This is a time-critical process in the supply chain, also complicated, ever evolving and not so easy protocols, hence requires time and expertise.</p>
-       <div style="text-align: center;">
+       <p>Customs declarations are a vital component to have Trade across international borders. This is a time-critical process in the supply chain, also complicated, ever evolving and not so easy protocols, hence requires time and expertise.</p>
        <div class="srv-a">
        <a href="about.html" style="text-decorations:none; color:inherit;">Read More</a>
-       </div>
        </div>
       </div>
      </div>

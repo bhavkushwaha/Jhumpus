@@ -338,7 +338,7 @@ Navbar Section
 }
 
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
-  color: #ED5910;
+  color: orange;
 }
 
 @media (min-width: 992px) {
@@ -541,7 +541,7 @@ Navbar Section
 textarea.form-control {
   height: auto;
 }
-/* .message-form {
+.message-form {
   border-radius: 10px !important;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   border: none;
@@ -551,7 +551,7 @@ textarea.form-control {
 }
 .message-form {
   background-color: #C6C6C6 !important;
-} */
+}
 
 .hero-bg {
   --band-right-offset: 0px;
