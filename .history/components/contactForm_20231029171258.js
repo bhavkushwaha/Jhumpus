@@ -61,7 +61,7 @@ function contactForm() {
                                             <div class="help-block with-errors"></div>
                                         </div>
                                     </div>
-                                    <div class="row"><br></div>
+                                    
                                     <div class="col-sm-12">
                                         <div class="form-group">
                                             <input id="form_email" type="email" name="email" class="form-control custom-form" placeholder="*Email address" required="required" data-error="Valid email is required.">
